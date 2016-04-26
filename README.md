@@ -14,7 +14,8 @@ https://github.com/PixelantQC/t3kit
 __You need to set several environment variables to be able to run tests on SauceLabs__
 __and to send reports via gmail__
 
-**You need to set such environment variables:**:
+**You need to set such environment variables:**
+
 FIREBASE_URL - I use Firebase as a database for this project, so setup your firebase link
 
 ALSO you should change firebase url in SocialAuthActions.js file
