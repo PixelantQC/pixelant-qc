@@ -16,8 +16,11 @@ __and to send reports via gmail__
 
 **You need to set such environment variables:**:
 FIREBASE_URL - I use Firebase as a database for this project, so setup your firebase link
+
 ALSO you should change firebase url in SocialAuthActions.js file
+
 SAUCE_USER, SAUCE_KEY - to run the tests on SauceLabs
+
 PERSONAL_GMAIL, GMAIL_PASS - to send the messages from your personal gmail
 
 To run this project, clone it:
